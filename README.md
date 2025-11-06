@@ -1,5 +1,5 @@
 <h2 align="center">Brief Info</h2>
-Hello! Currently I'm a doctorant(PhD) at Aix Marseille Université in France, started from Oct 2024. My supervisors are Prof. Colin Guillarmou and Rémi Rhodes. Before that I obtained my master degree at Fudan University in China, supervised by Prof. Elie Aïdékon.
+Hello! Currently I'm a doctorant(PhD) at Aix Marseille Université in France, started from Oct 2024, supported by <a href="https://mathphdinfrance.fr">COFUND</a>. My supervisors are Prof. Colin Guillarmou and Rémi Rhodes. Before that I obtained my master degree at Fudan University in China, supervised by Prof. Elie Aïdékon.
 <h2 align="center">Research Interests</h2>
 My current research interests are mainly models from mathematical physics, especially conformal field theories. In particular, I am working on a conformal field theory called <a href="https://arxiv.org/abs/2310.18226">compactified imaginary Lliouville theory</a>, using probablistic, geometric, and algebraic tools. Before that, I worked on some projects related to random walk on trees.
 <h2 align="center">Publications</h2>
