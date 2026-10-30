@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
-title: Yang XIAO's homepage
+title: Yang Xiao — Mathematics
 description: "PhD student, Institut de Mathématiques de Marseille, Aix Marseille Université · 3 place Victor Hugo, Case 19, 13331 Marseille Cedex 3 · yang.xiao@univ-amu.fr"
+logo: /photo.jpg
+url: https://yang-xiao-math.github.io
+plugins:
+  - jekyll-sitemap
