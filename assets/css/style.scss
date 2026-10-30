@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Sidebar photo: smaller than the full 270px sidebar width. */
+header img {
+  width: 160px;
+}
